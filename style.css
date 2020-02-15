@@ -1,0 +1,41 @@
+body{font-family: "メイリオ";background-color: aliceblue;
+    margin: 0;
+    margin-top: 0;}
+
+header{background-color: deepskyblue;
+        position: fixed;
+        display: flex;
+        justify-content: space-between;
+        width: 100%;
+        padding: 15px 20px;
+        margin-top: -20px;
+        font-size: large;}
+
+p1{color: darkblue;font-size: larger;}
+p2{color: midnightblue;font-size: larger;}
+
+nav ul {list-style-type: none;
+        margin-top: 0;margin-bottom: 0;
+        padding-left: 0;
+        font-size: 0;}
+
+nav li {display: inline;
+        font-size: 15px;
+        border-right: solid 1px mediumblue;
+        padding-left: 10px;padding-right: 10px;}
+
+nav li:first-child{border-left: solid 1px mediumblue;}
+
+nav{width: 900px;
+    margin-left: auto;margin-right: auto;margin-top: 2px;margin-bottom: 10px;
+    text-align: right;}
+
+nav a  {color: midnightblue;
+        text-decoration: none;}
+
+figure{width: 100%;
+        margin-left: 0;margin-right: 0;}
+
+article{width: 50px;}
+
+a:hover{color: darkorange;}
