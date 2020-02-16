@@ -1,8 +1,9 @@
 body{font-family: "メイリオ";background-color: aliceblue;
-    margin: 0;
-    margin-top: 0;}
+        color: midnightblue;
+         margin: 0;
+         margin-top: 0;}
 
-header{background-color: deepskyblue;
+header{background-color:#81d4fa;
         position: fixed;
         display: flex;
         justify-content: space-between;
@@ -10,9 +11,6 @@ header{background-color: deepskyblue;
         padding: 15px 20px;
         margin-top: -20px;
         font-size: large;}
-
-p1{color: darkblue;font-size: larger;}
-p2{color: midnightblue;font-size: larger;}
 
 nav ul {list-style-type: none;
         margin-top: 0;margin-bottom: 0;
@@ -39,3 +37,5 @@ figure{width: 100%;
 article{width: 50px;}
 
 a:hover{color: darkorange;}
+
+article{font-size: 100px;}
