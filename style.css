@@ -38,6 +38,8 @@ article{width: 50px;}
 
 a:hover{color: darkorange;}
 
+a:link,:visited{color: midnightblue;}
+
 .home article{font-size: 100px;}
 
 tr{width: 70%;}
