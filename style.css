@@ -19,10 +19,10 @@ nav ul {list-style-type: none;
 
 nav li {display: inline;
         font-size: 15px;
-        border-right: solid 1px mediumblue;
+        border-right: solid 1px midnightblue;
         padding-left: 10px;padding-right: 10px;}
 
-nav li:first-child{border-left: solid 1px mediumblue;}
+nav li:first-child{border-left: solid 1px midnightblue;}
 
 nav{width: 900px;
     margin-left: auto;margin-right: auto;margin-top: 2px;margin-bottom: 10px;
@@ -38,4 +38,12 @@ article{width: 50px;}
 
 a:hover{color: darkorange;}
 
-article{font-size: 100px;}
+.home article{font-size: 100px;}
+
+tr{width: 70%;}
+
+img.some1{width: 50%;height: auto;vertical-align: middle;}
+
+.mono{float: left;}
+
+body.shop{clear: both;}
