@@ -49,3 +49,5 @@ img.some1{width: 50%;height: auto;vertical-align: middle;}
 .mono{float: left;}
 
 body.shop{clear: both;}
+
+table th::after{}
